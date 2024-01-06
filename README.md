@@ -1,1 +1,1 @@
-# sql-50-leetcode-solutions
+Leetcode solutions for the sql 50 study plan
